@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 # 5-square.py
+# Authored by brian Lema
+"""Define a class Square"""
 
 
 class Square:
