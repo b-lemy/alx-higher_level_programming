@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-x_mul.py
+# x_mul.py
 """Defines a matrix multiplication function."""
 
 
