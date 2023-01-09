@@ -1,5 +1,4 @@
 # 101-add_attribute.py
-# Amos Mwongela Gabriel <amosmwongelah@gmail>
 """Defines a function that adds attributes to objects."""
 
 
