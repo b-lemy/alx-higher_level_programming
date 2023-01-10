@@ -1,4 +1,5 @@
-dd_item.py
+#!/usr/bin/python3
+# add_item.py
 """
 Script that adds all arguments to a Python list, and then saves them to a file
 """
