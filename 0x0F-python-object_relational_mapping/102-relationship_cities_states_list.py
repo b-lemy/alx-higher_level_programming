@@ -11,7 +11,9 @@ from sqlalchemy.orm import sessionmaker
 
 if __name__ == '__main__':
     """
-         the session should join two tables  
+    The session should join two tables
+    and loop the results
+    in the output  
     """
     engine = create_engine('mysql+mysqldb://{}:{}@localhost:3306/{}'.
                            format(sys.argv[1], sys.argv[2], sys.argv[3]),
